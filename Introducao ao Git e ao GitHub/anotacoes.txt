@@ -1,0 +1,2 @@
+Criando repositório Git/GitHUb:
+Abrindo Git indo na parte superior direita, clicar no +, Novo Repositório. inserir nome e descrição.
