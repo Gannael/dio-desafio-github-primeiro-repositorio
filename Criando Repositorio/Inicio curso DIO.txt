@@ -48,3 +48,16 @@ git push origin  main
 
 (arquivo foi enviado, só felicidade)
 
+##Se o arquivo for modificado o status fica como "MODIFIED", dessa forma nçao vai toda a informação até ser repetido os comandos
+
+git add .
+
+depois:
+
+git commit -m "Alteração"
+
+por fim:
+
+git push origin main
+
+:)
