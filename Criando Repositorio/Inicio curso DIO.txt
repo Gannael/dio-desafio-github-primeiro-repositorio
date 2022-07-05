@@ -27,3 +27,24 @@ git remote add origin https://github.com/Gannael/Gannael.git,
 git push - u origem principal 
 
 (git push permite que você envie (ou em tradução literal, empurre) os commits de sua branch e repositório Git local para o seu repositório remoto)
+
+git status
+
+(verifica o estados do dados na pasta main)
+
+git clone
+
+(copia qualquer código da nuvem para máquina local)
+
+git add . ou -a
+
+(envia novos arquivos do repositório local para o git remoto)
+
+git commit -m "Descrição"
+
+e por fim:
+
+git push origin  main
+
+(arquivo foi enviado, só felicidade)
+
