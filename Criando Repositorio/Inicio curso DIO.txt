@@ -1,0 +1,29 @@
+Entendendo comandos:
+
+echo "# Gannael" >> README.md 
+
+( instrução que envia para a saída qualquer informação, podendo conter texto, números ou variáveis.)
+
+git init 
+
+( Este comando cria um repositório Git vazio, basicamente um diretório . git com subdiretórios para os arquivos objects , refs/heads , refs/tags e arquivos modelo.)
+
+git add README.md 
+
+(Esse comando realiza a inclusão ou modificação do arquivo no diretório local, preparando ele para ser entregue ao servidor remoto para a mesma aplicação que está sincronizada na máquina loca)
+
+git commit -m "first commit" 
+
+(você consegue guardar o estado do seu repositório naquele momento, descrições são importantes.)
+
+git branch -M main 
+
+(um branch de desenvolvimento é uma bifurcação do estado do código que cria um novo caminho para a evolução do mesmo. Ele pode estar em paralelo com outras Git Branches que você pode gerar)
+
+git remote add origin https://github.com/Gannael/Gannael.git, 
+
+(mando os arquivos para a nuvem.)
+
+git push - u origem principal 
+
+(git push permite que você envie (ou em tradução literal, empurre) os commits de sua branch e repositório Git local para o seu repositório remoto)
